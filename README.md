@@ -1,0 +1,2 @@
+# clase-infor
+ejercicios varios
